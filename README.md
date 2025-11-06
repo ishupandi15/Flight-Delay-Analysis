@@ -18,8 +18,14 @@ Python · Pandas · NumPy · Matplotlib · Jupyter Notebook
 **Skills Demonstrated:**  
 Data Cleaning · Data Visualization · EDA · Python Programming
 
+**Future Improvements:**  
+- Add more advanced visualizations (Seaborn or Plotly)  
+- Include external data such as weather conditions  
+- Build a machine learning model to predict flight delays  
+- Deploy interactive visuals using Streamlit or Dash  
+
 **How to Run:**  
 1. Open the notebook in Jupyter or VS Code  
 2. Run all cells to view analysis and charts  
 
-**Duration:** April 2025  
+**Duration:** April 2025
