@@ -1,24 +1,25 @@
-✈️ Flight Delay Analysis
+# ✈️ Flight Delay Analysis
 
-This project explores flight delay data using Python, Pandas, and Matplotlib.
-It includes data cleaning, visualization, and analysis of factors that cause delays such as weather, time of day, and airline performance.
+This is a simple data analysis challenge lab exploring flight delay patterns using Python and Pandas.  
+The goal is to clean the dataset, perform basic exploratory analysis, and visualize delay trends across airlines and time periods.
 
-Notebook:
-Flight_Delay_Analysis.ipynb
+**Notebook:**  
+`Flight_Delay_Analysis.ipynb`
 
-Skills Used:
-Python, Pandas, NumPy, Data Cleaning, Data Visualization, Jupyter Notebook
+**Tools & Libraries:**  
+Python · Pandas · NumPy · Matplotlib · Jupyter Notebook
 
-Key Insights:
+**Key Steps:**  
+- Loaded and explored flight delay dataset  
+- Cleaned missing or invalid data  
+- Created basic visualizations using Matplotlib  
+- Summarized delay patterns by airline and time of day  
 
-Visualized delay distributions by time and airline
+**Skills Demonstrated:**  
+Data Cleaning · Data Visualization · EDA · Python Programming
 
-Found patterns between flight delay and departure time
+**How to Run:**  
+1. Open the notebook in Jupyter or VS Code  
+2. Run all cells to view analysis and charts  
 
-Identified possible causes like weather and airport congestion
-
-How to Run:
-
-Open the notebook in Jupyter or VS Code
-
-Run all cells to see the charts and outputs
+**Duration:** April 2025  
